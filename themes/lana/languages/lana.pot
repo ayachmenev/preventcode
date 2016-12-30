@@ -1,0 +1,1170 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lana\n"
+"POT-Creation-Date: 2016-10-25 22:33+0200\n"
+"PO-Revision-Date: 2015-08-29 23:03+0200\n"
+"Last-Translator: Jaroslav Svetlik <kdonet@gmail.com>\n"
+"Language-Team: Theme-Vision <support@theme-vision.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:13 framework/lana-class.php:132
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:16 framework/lana-class.php:136
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: category.php:41 framework/blog/loop.php:43 page.php:47 search.php:46
+#: single.php:48
+msgid "Posted by"
+msgstr ""
+
+#: category.php:50 framework/blog/loop.php:64 page.php:56 search.php:67
+#: single.php:61
+msgid "comments"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgid "<span>%1$s</span> Comment"
+msgid_plural "<span>%1$s</span> Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:41
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: framework/admin/animate.php:10
+msgid "Bounce"
+msgstr ""
+
+#: framework/admin/animate.php:11
+msgid "Flash"
+msgstr ""
+
+#: framework/admin/animate.php:12
+msgid "Pulse"
+msgstr ""
+
+#: framework/admin/animate.php:13
+msgid "Rubber Band"
+msgstr ""
+
+#: framework/admin/animate.php:14
+msgid "Shake"
+msgstr ""
+
+#: framework/admin/animate.php:15
+msgid "Swing"
+msgstr ""
+
+#: framework/admin/animate.php:16
+msgid "Tada"
+msgstr ""
+
+#: framework/admin/animate.php:17
+msgid "Wobble"
+msgstr ""
+
+#: framework/admin/animate.php:18
+msgid "Jello"
+msgstr ""
+
+#: framework/admin/animate.php:19
+msgid "Bounce In"
+msgstr ""
+
+#: framework/admin/animate.php:20
+msgid "Bounce In Down"
+msgstr ""
+
+#: framework/admin/animate.php:21
+msgid "Bounce In Left"
+msgstr ""
+
+#: framework/admin/animate.php:22
+msgid "Bounce In Right"
+msgstr ""
+
+#: framework/admin/animate.php:23
+msgid "Bounce In Up"
+msgstr ""
+
+#: framework/admin/animate.php:24
+msgid "Bounce Out"
+msgstr ""
+
+#: framework/admin/animate.php:25
+msgid "Bounce Out Down"
+msgstr ""
+
+#: framework/admin/animate.php:26
+msgid "Bounce Out Left"
+msgstr ""
+
+#: framework/admin/animate.php:27
+msgid "Bounce Out Right"
+msgstr ""
+
+#: framework/admin/animate.php:28
+msgid "Bounce Out Up"
+msgstr ""
+
+#: framework/admin/animate.php:29
+msgid "Fade In"
+msgstr ""
+
+#: framework/admin/animate.php:30
+msgid "Fade In Down"
+msgstr ""
+
+#: framework/admin/animate.php:31
+msgid "Fade In Down Big"
+msgstr ""
+
+#: framework/admin/animate.php:32
+msgid "Fade In Left"
+msgstr ""
+
+#: framework/admin/animate.php:33
+msgid "Fade In Left Big"
+msgstr ""
+
+#: framework/admin/animate.php:34
+msgid "Fade In Right"
+msgstr ""
+
+#: framework/admin/animate.php:35
+msgid "Fade In Right Big"
+msgstr ""
+
+#: framework/admin/animate.php:36
+msgid "Fade In Up"
+msgstr ""
+
+#: framework/admin/animate.php:37
+msgid "Fade In Up Big"
+msgstr ""
+
+#: framework/admin/animate.php:38
+msgid "Fade Out"
+msgstr ""
+
+#: framework/admin/animate.php:39
+msgid "Fade Out Down"
+msgstr ""
+
+#: framework/admin/animate.php:40
+msgid "Fade Out Down Big"
+msgstr ""
+
+#: framework/admin/animate.php:41
+msgid "Fade Out Left"
+msgstr ""
+
+#: framework/admin/animate.php:42
+msgid "Fade Out Left Big"
+msgstr ""
+
+#: framework/admin/animate.php:43
+msgid "Fade Out Right"
+msgstr ""
+
+#: framework/admin/animate.php:44
+msgid "Fade Out Right Big"
+msgstr ""
+
+#: framework/admin/animate.php:45
+msgid "Fade Out Up"
+msgstr ""
+
+#: framework/admin/animate.php:46
+msgid "Fade Out Up Big"
+msgstr ""
+
+#: framework/admin/animate.php:47
+msgid "Flip"
+msgstr ""
+
+#: framework/admin/animate.php:48
+msgid "Flip In X"
+msgstr ""
+
+#: framework/admin/animate.php:49
+msgid "Flip In Y"
+msgstr ""
+
+#: framework/admin/animate.php:50
+msgid "Flip Out X"
+msgstr ""
+
+#: framework/admin/animate.php:51
+msgid "Flip Out Y"
+msgstr ""
+
+#: framework/admin/animate.php:52
+msgid "Light Speed In"
+msgstr ""
+
+#: framework/admin/animate.php:53
+msgid "Light Speed Out"
+msgstr ""
+
+#: framework/admin/animate.php:54
+msgid "Rotate In"
+msgstr ""
+
+#: framework/admin/animate.php:55
+msgid "Rotate In Down Left"
+msgstr ""
+
+#: framework/admin/animate.php:56
+msgid "Rotate In Down Right"
+msgstr ""
+
+#: framework/admin/animate.php:57
+msgid "Rotate In Up Left"
+msgstr ""
+
+#: framework/admin/animate.php:58
+msgid "Rotate In Up Right"
+msgstr ""
+
+#: framework/admin/animate.php:59
+msgid "Rotate Out"
+msgstr ""
+
+#: framework/admin/animate.php:60
+msgid "Rotate Out Down Left"
+msgstr ""
+
+#: framework/admin/animate.php:61
+msgid "Rotate Out Down Right"
+msgstr ""
+
+#: framework/admin/animate.php:62
+msgid "Rotate Out Up Left"
+msgstr ""
+
+#: framework/admin/animate.php:63
+msgid "Rotate Out Up Right"
+msgstr ""
+
+#: framework/admin/animate.php:64
+msgid "Slide In Up"
+msgstr ""
+
+#: framework/admin/animate.php:65
+msgid "Slide In Down"
+msgstr ""
+
+#: framework/admin/animate.php:66
+msgid "Slide In Left"
+msgstr ""
+
+#: framework/admin/animate.php:67
+msgid "Slide In Right"
+msgstr ""
+
+#: framework/admin/animate.php:68
+msgid "Slide Out Up"
+msgstr ""
+
+#: framework/admin/animate.php:69
+msgid "Slide Out Down"
+msgstr ""
+
+#: framework/admin/animate.php:70
+msgid "Slide Out Left"
+msgstr ""
+
+#: framework/admin/animate.php:71
+msgid "Slide Out Right"
+msgstr ""
+
+#: framework/admin/animate.php:72
+msgid "Zoom In"
+msgstr ""
+
+#: framework/admin/animate.php:73
+msgid "Zoom In Down"
+msgstr ""
+
+#: framework/admin/animate.php:74
+msgid "Zoom In Left"
+msgstr ""
+
+#: framework/admin/animate.php:75
+msgid "Zoom In Right"
+msgstr ""
+
+#: framework/admin/animate.php:76
+msgid "Zoom In Up"
+msgstr ""
+
+#: framework/admin/animate.php:77
+msgid "Zoom Out"
+msgstr ""
+
+#: framework/admin/animate.php:78
+msgid "Zoom Out Down"
+msgstr ""
+
+#: framework/admin/animate.php:79
+msgid "Zoom Out Left"
+msgstr ""
+
+#: framework/admin/animate.php:80
+msgid "Zoom Out Right"
+msgstr ""
+
+#: framework/admin/animate.php:81
+msgid "Zoom Out Up"
+msgstr ""
+
+#: framework/admin/animate.php:82
+msgid "Hinge"
+msgstr ""
+
+#: framework/admin/animate.php:83
+msgid "Roll In"
+msgstr ""
+
+#: framework/admin/animate.php:84
+msgid "Roll Out"
+msgstr ""
+
+#: framework/admin/customizer.php:68 framework/admin/customizer.php:92
+#: framework/admin/customizer.php:410
+msgid "General"
+msgstr ""
+
+#: framework/admin/customizer.php:69
+msgid "General section."
+msgstr ""
+
+#: framework/admin/customizer.php:75
+msgid "Page Titles"
+msgstr ""
+
+#: framework/admin/customizer.php:76
+msgid "Enable pages & single posts titles ?"
+msgstr ""
+
+#: framework/admin/customizer.php:86
+msgid "Header"
+msgstr ""
+
+#: framework/admin/customizer.php:87
+msgid "Header settings."
+msgstr ""
+
+#: framework/admin/customizer.php:93
+msgid "Lana header general settings."
+msgstr ""
+
+#: framework/admin/customizer.php:100
+msgid "Header Image"
+msgstr ""
+
+#: framework/admin/customizer.php:101
+msgid "Header image section."
+msgstr ""
+
+#: framework/admin/customizer.php:107
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/admin/customizer.php:108
+msgid "Enable sticky header ?"
+msgstr ""
+
+#: framework/admin/customizer.php:117
+msgid "Logo Max-Width"
+msgstr ""
+
+#: framework/admin/customizer.php:118
+msgid "Set logo max-width."
+msgstr ""
+
+#: framework/admin/customizer.php:138
+msgid "Logo Color"
+msgstr ""
+
+#: framework/admin/customizer.php:139
+msgid "Works only with non-image logo."
+msgstr ""
+
+#: framework/admin/customizer.php:154
+msgid "Layout"
+msgstr ""
+
+#: framework/admin/customizer.php:155
+msgid "Layout section."
+msgstr ""
+
+#: framework/admin/customizer.php:159
+msgid "Layout Style"
+msgstr ""
+
+#: framework/admin/customizer.php:160
+msgid "Select layout style."
+msgstr ""
+
+#: framework/admin/customizer.php:165
+msgid "Boxed"
+msgstr ""
+
+#: framework/admin/customizer.php:166
+msgid "FullWidth"
+msgstr ""
+
+#: framework/admin/customizer.php:174
+msgid "Slider"
+msgstr ""
+
+#: framework/admin/customizer.php:175
+msgid "Slider section."
+msgstr ""
+
+#: framework/admin/customizer.php:181
+msgid "Post Category"
+msgstr ""
+
+#: framework/admin/customizer.php:182
+msgid "Select slider post category."
+msgstr ""
+
+#: framework/admin/customizer.php:193 framework/admin/customizer.php:201
+msgid "Breadcrumb"
+msgstr ""
+
+#: framework/admin/customizer.php:194
+msgid "Lana breadcrumb section."
+msgstr ""
+
+#: framework/admin/customizer.php:202
+msgid "Enable theme breadcrumb ?"
+msgstr ""
+
+#: framework/admin/customizer.php:210
+msgid "Height"
+msgstr ""
+
+#: framework/admin/customizer.php:211
+msgid "Set breadcrumb height."
+msgstr ""
+
+#: framework/admin/customizer.php:241
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:49
+msgid "Background Image"
+msgstr ""
+
+#: framework/admin/customizer.php:242
+msgid "Set breadcrumb background image."
+msgstr ""
+
+#: framework/admin/customizer.php:256
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:48
+msgid "Background Color"
+msgstr ""
+
+#: framework/admin/customizer.php:257
+msgid "Set breadcrumb background color."
+msgstr ""
+
+#: framework/admin/customizer.php:271
+msgid "Font Style"
+msgstr ""
+
+#: framework/admin/customizer.php:272
+msgid "Set breadcrumb font style."
+msgstr ""
+
+#: framework/admin/customizer.php:292
+msgid "Font Color"
+msgstr ""
+
+#: framework/admin/customizer.php:293
+msgid "Set breadcrumb font color."
+msgstr ""
+
+#: framework/admin/customizer.php:315
+msgid "Link Hover"
+msgstr ""
+
+#: framework/admin/customizer.php:316
+msgid "Set breadcrumb links hover color."
+msgstr ""
+
+#: framework/admin/customizer.php:330
+msgid "Link Active"
+msgstr ""
+
+#: framework/admin/customizer.php:331
+msgid "Set breadcrumb active link color."
+msgstr ""
+
+#: framework/admin/customizer.php:346
+msgid "Blog"
+msgstr ""
+
+#: framework/admin/customizer.php:347
+msgid "Blog section."
+msgstr ""
+
+#: framework/admin/customizer.php:352
+msgid "Single Post Thumbnails"
+msgstr ""
+
+#: framework/admin/customizer.php:353
+msgid "Enable featured thumbnails on single post pages ?"
+msgstr ""
+
+#: framework/admin/customizer.php:363 framework/admin/customizer.php:460
+msgid "Social Icons"
+msgstr ""
+
+#: framework/admin/customizer.php:364
+msgid "Social icons section."
+msgstr ""
+
+#: framework/admin/customizer.php:369
+msgid "RSS URL"
+msgstr ""
+
+#: framework/admin/customizer.php:370
+msgid "Set your rss page url."
+msgstr ""
+
+#: framework/admin/customizer.php:377
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/admin/customizer.php:378
+msgid "Set your facebook page url."
+msgstr ""
+
+#: framework/admin/customizer.php:385
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/admin/customizer.php:386
+msgid "Set your twitter page url."
+msgstr ""
+
+#: framework/admin/customizer.php:393
+msgid "Google+ URL"
+msgstr ""
+
+#: framework/admin/customizer.php:394
+msgid "Set your google+ page url."
+msgstr ""
+
+#: framework/admin/customizer.php:404
+msgid "Styling"
+msgstr ""
+
+#: framework/admin/customizer.php:405
+msgid "Styling section."
+msgstr ""
+
+#: framework/admin/customizer.php:411
+msgid "Styling general section."
+msgstr ""
+
+#: framework/admin/customizer.php:417
+msgid "Primary Color"
+msgstr ""
+
+#: framework/admin/customizer.php:418
+msgid "Select theme primary color."
+msgstr ""
+
+#: framework/admin/customizer.php:419
+msgid "All main elements will use this color."
+msgstr ""
+
+#: framework/admin/customizer.php:427
+msgid "Body Background"
+msgstr ""
+
+#: framework/admin/customizer.php:428
+msgid "Body background settings."
+msgstr ""
+
+#: framework/admin/customizer.php:432 framework/admin/customizer.php:437
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/admin/customizer.php:433
+msgid "Custom css section."
+msgstr ""
+
+#: framework/admin/customizer.php:438
+msgid "Add custom CSS code."
+msgstr ""
+
+#: framework/admin/customizer.php:454
+msgid "Footer"
+msgstr ""
+
+#: framework/admin/customizer.php:455
+msgid "Footer section."
+msgstr ""
+
+#: framework/admin/customizer.php:461
+msgid "Enable social icons in footer area ?"
+msgstr ""
+
+#: framework/admin/customizer.php:468
+msgid "Copyright"
+msgstr ""
+
+#: framework/admin/customizer.php:469
+msgid "Add custom footer copyright."
+msgstr ""
+
+#: framework/admin/customizer.php:473
+msgid "Powered by"
+msgstr ""
+
+#: framework/admin/customizer.php:473
+msgid "Theme-Vision"
+msgstr ""
+
+#: framework/admin/customizer.php:480
+msgid "Lana Support"
+msgstr ""
+
+#: framework/admin/customizer.php:481
+msgid "Hey! Buy us a cofee and we shall come with new features and updates."
+msgstr ""
+
+#: framework/admin/customizer.php:496
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: framework/admin/customizer.php:511 framework/admin/customizer.php:512
+msgid "Donate"
+msgstr ""
+
+#: framework/admin/customizer.php:514
+msgid "Review Lana"
+msgstr ""
+
+#: framework/admin/customizer.php:515
+msgid "Rate Lana"
+msgstr ""
+
+#: framework/admin/customizer.php:517 framework/admin/customizer.php:518
+msgid "Support Forum"
+msgstr ""
+
+#: framework/admin/customizer.php:544
+msgid "Lana Upgrade"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:50
+msgid "No Repeat"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:51
+msgid "Repeat All"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:52
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:53
+msgid "Repeat Vertically"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:54
+msgid "Inherit"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:55
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:56
+msgid "Cover"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:57
+msgid "Contain"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:58
+msgid "Background Size"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:59
+msgid "Fixed"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:60
+msgid "Scroll"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:61
+msgid "Background Attachment"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:62
+msgid "Left Top"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:63
+msgid "Left Center"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:64
+msgid "Left Bottom"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:65
+msgid "Right Top"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:66
+msgid "Right Center"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:67
+msgid "Right Bottom"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:68
+msgid "Center Top"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:69
+msgid "Center Center"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:70
+msgid "Center Bottom"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:71
+msgid "Background Position"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:72
+msgid "Background Opacity"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:73
+msgid "ON"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:74
+msgid "OFF"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:75
+msgid "All"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:76
+msgid "Cyrillic"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:77
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:78
+msgid "Devanagari"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:79
+msgid "Greek"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:80
+msgid "Greek Extended"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:81
+msgid "Khmer"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:82
+msgid "Latin"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:83
+msgid "Latin Extended"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:84
+msgid "Vietnamese"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:85
+msgid "Hebrew"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:86
+msgid "Arabic"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:87
+msgid "Bengali"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:88
+msgid "Gujarati"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:89
+msgid "Tamil"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:90
+msgid "Telugu"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:91
+msgid "Thai"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:92
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:93
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:94
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:95
+msgid "Font Family"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:96
+msgid "Font Size"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:97
+msgid "Font Weight"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:98
+msgid "Line Height"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:99
+msgid "Letter Spacing"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:100
+msgid "Top"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:101
+msgid "Bottom"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:102
+msgid "Left"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:103
+msgid "Right"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:104
+msgid "Color"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:105
+msgid "Add Image"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:106
+msgid "Change Image"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:107
+msgid "Remove"
+msgstr ""
+
+#: framework/admin/kirki/includes/class-kirki-toolkit.php:108
+msgid "No Image Selected"
+msgstr ""
+
+#: framework/admin/kirki/includes/controls/class-kirki-controls-repeater-control.php:28
+msgid "Add new row"
+msgstr ""
+
+#: framework/blog/loop.php:36 search.php:39
+msgid "Pages"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:18
+msgid "Single"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:24 framework/lana-breadcrumb.php:85
+msgid "Page"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:29
+msgid "Archive"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:32
+msgid "Daily Archives"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:35
+msgid "Monthly Archives"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:36
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:38
+msgid "Yearly Archives"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:39
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:51
+msgid "Category"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:61 framework/lana-breadcrumb.php:62
+msgid "Tag"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:67 framework/lana-breadcrumb.php:69
+msgid "Page not Found"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:68
+msgid "Error"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:73
+msgid "Search keyword"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:74 searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:84 framework/lana-breadcrumb.php:86
+#: framework/lana-breadcrumb.php:90 framework/lana-breadcrumb.php:99
+#: framework/lana-breadcrumb.php:103
+msgid "Shop"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:95
+msgid "Product Tag"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:100
+msgid "Cart"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:104
+msgid "Checkout"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:109 framework/lana-breadcrumb.php:110
+msgid "Homepage"
+msgstr ""
+
+#: framework/lana-breadcrumb.php:119
+msgid "Home"
+msgstr ""
+
+#: framework/lana-class.php:107
+msgid "Prev Post"
+msgstr ""
+
+#: framework/lana-class.php:115
+msgid "Next Post"
+msgstr ""
+
+#: framework/lana-functions.php:40
+msgid "Top Menu"
+msgstr ""
+
+#: framework/lana-functions.php:41
+msgid "Main Menu"
+msgstr ""
+
+#: framework/lana-functions.php:96
+msgid "Post navigation"
+msgstr ""
+
+#: framework/lana-functions.php:97
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: framework/lana-functions.php:98
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: framework/lana-functions.php:124
+msgid "Pingback:"
+msgstr ""
+
+#: framework/lana-functions.php:124
+msgid "(Edit)"
+msgstr ""
+
+#: framework/lana-functions.php:139
+msgid "Reply"
+msgstr ""
+
+#: framework/lana-functions.php:146
+msgid "author"
+msgstr ""
+
+#: framework/lana-functions.php:152
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/lana-functions.php:167
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/lana-functions.php:226
+msgid "Name"
+msgstr ""
+
+#: framework/lana-functions.php:227
+msgid "Email"
+msgstr ""
+
+#: framework/lana-functions.php:228
+msgid "Website"
+msgstr ""
+
+#: framework/lana-functions.php:243
+msgid "Logged in as"
+msgstr ""
+
+#: framework/lana-functions.php:243
+msgid "Log out of this account"
+msgstr ""
+
+#: framework/lana-functions.php:243
+msgid "Log out?"
+msgstr ""
+
+#: framework/lana-functions.php:244
+msgid "Comment"
+msgstr ""
+
+#: framework/lana-functions.php:245
+msgid "You may use these"
+msgstr ""
+
+#: framework/lana-functions.php:245
+msgid "tags and attributes"
+msgstr ""
+
+#: framework/lana-functions.php:259
+msgid "Lana theme by"
+msgstr ""
+
+#: framework/lana-functions.php:259
+msgid "ThemeVision"
+msgstr ""
+
+#: framework/lana-slider.php:21 framework/lana-slider.php:22
+msgid "Lana - Responsive WordPress theme."
+msgstr ""
+
+#: framework/widgets/widgets.php:39
+msgid "Main Sidebar"
+msgstr ""
+
+#: framework/widgets/widgets.php:41
+msgid "Main Lana Theme Sidebar"
+msgstr ""
+
+#: framework/widgets/widgets.php:48
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: framework/widgets/widgets.php:56
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: framework/widgets/widgets.php:64
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: framework/widgets/widgets.php:72
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: header.php:53
+msgid "Mobile Menu Toggle"
+msgstr ""
+
+#: search.php:86
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:89
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:3
+msgctxt "Title"
+msgid "Search for:"
+msgstr ""
